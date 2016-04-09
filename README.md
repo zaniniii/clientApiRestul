@@ -4,7 +4,6 @@ Uma simples classe desenvolvida com Swift 2.0 para facilitar o consumo de API Re
 ###Aplicação
 
 ```swift
-//Instâncio a classe
 let api = requestApi()
 
 //Declarando o endpoint e suas propriedades (path é obrigatório)
